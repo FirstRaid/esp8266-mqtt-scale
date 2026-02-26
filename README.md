@@ -225,6 +225,8 @@ Die sechs Waagen nutzen identische Hardware, unterscheiden sich aber in ihrer So
 
 ## 📐 Konstruktion
 
+![Waagen im Einsatz in der Modellfabrik NordSteck](misc/usage.jpg)
+
 Das Gehäuse wurde mittels **3D-Druck** (additive Fertigung) realisiert und folgt dem **Biegebalken-Prinzip** für den DMS:
 - Eine Seite des Sensors ist fest fixiert (Gehäusesockel)
 - Die gegenüberliegende Seite ist durch die aufgebrachte Last frei verformbar (Waagschale/Deckel)
